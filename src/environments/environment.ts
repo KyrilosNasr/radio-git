@@ -5,13 +5,13 @@
 export const environment = {
   production: false,
   firebaseConfig : {
-    apiKey: "AIzaSyB6EAXvoJuAgE89jftUCRZAqKtkVGCSQtE",
-    authDomain: "radiodawod-e369e.firebaseapp.com",
-    databaseURL: "https://radiodawod-e369e.firebaseio.com",
-    projectId: "radiodawod-e369e",
-    storageBucket: "radiodawod-e369e.appspot.com",
-    messagingSenderId: "1066299780499",
-    appId: "1:1066299780499:web:0c077b1be88ea20d"
+    apiKey: 'AIzaSyB6EAXvoJuAgE89jftUCRZAqKtkVGCSQtE',
+    authDomain: 'radiodawod-e369e.firebaseapp.com',
+    databaseURL: 'https://radiodawod-e369e.firebaseio.com',
+    projectId: 'radiodawod-e369e',
+    storageBucket: 'radiodawod-e369e.appspot.com',
+    messagingSenderId: '1066299780499',
+    appId: '1:1066299780499:web:0c077b1be88ea20d'
   }
 };
 
